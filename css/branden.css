@@ -9,10 +9,11 @@ a {
 }
 
 
-h2 {
+h1 {
     border-style: groove;
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: teal;
+	text-align: center;
 }
