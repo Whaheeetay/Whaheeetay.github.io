@@ -18,14 +18,26 @@ h1 {
 	text-align: center;
 }
 
-
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 
-li {
+nav ul li {
   display: inline;
+    float: left;
+}
+
+nav ul li a{
+  dsiplay: block;
+  padding: 8px;
+  background-color: #dddddd;
+  text-decoration: none;
+}
+
+nav ul li a:hover{
+  background-color: white;
+  color: black;
 }
