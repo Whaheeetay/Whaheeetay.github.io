@@ -1,5 +1,5 @@
 p {
-	color: red;
+	color: brown;
 
 }
 
@@ -8,14 +8,18 @@ a {
 	
 }
 
+body{
+  background-color: lightblue
+} 
 
 h1 {
     border-style: groove;
     border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
+    border-left-width: 5px;
+    border-right-width: 5px;
     border-color: teal;
 	text-align: center;
+  margin-top: 1.5em;
 }
 
 nav ul {
@@ -44,4 +48,6 @@ nav ul li a{
 nav ul li a:hover{
   background-color: white;
   color: black;
+}
+
 }
