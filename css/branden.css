@@ -1,5 +1,11 @@
 p {
 	color: brown;
+    border: 1px solid green;
+    background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+    padding-left: 1px;
 
 }
 
@@ -18,8 +24,9 @@ h1 {
     border-left-width: 5px;
     border-right-width: 5px;
     border-color: teal;
-	text-align: center;
-  margin-top: 1.5em;
+	  text-align: center;
+	  margin-top: 1.5em;
+	
 }
 
 h2{
