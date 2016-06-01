@@ -32,6 +32,7 @@ h1 {
 h2{
   border-style: double;
   width: 314px;
+  color: purple;
 }
 
 nav ul {
